@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TextCreate</string>
+    <string name="enter_your_text_here">  Enter your text here </string>
+    <string name="creators">Created by Arun Hegde, Ankit Kumar Jha and Aryan Raj</string>
+    <string name="open">Open</string>
+    <string name="save">Save</string>
+    <string name="create">Create</string>
+    <string name="enter_filename">  Enter filename</string>
+</resources>
